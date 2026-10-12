@@ -113,3 +113,5 @@ Claude Code discovers the same skills through `.claude/skills` (symlink).
 `apps/web` is a standard Next.js app. Deploy it with any Next.js-compatible host. Build from the repo root with `bun run build`, or build only the web app with `bunx turbo build --filter=web`. Keep environment secrets out of the repository; `.env*` files are gitignored.
 
 # next-monorepo-template
+
+# next-monorepo-template
